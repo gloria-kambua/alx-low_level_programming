@@ -1,6 +1,12 @@
 #include <stdio.h>
-/**this function prints with proper grammar, but the outcome is a piece of art**/
-int main(void){
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }

@@ -1,6 +1,7 @@
 /*
  * File: 8-print_base16.c
- * Auth:G.K */
+ * Auth:G.K
+ */
 
 #include <stdio.h>
 
